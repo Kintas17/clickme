@@ -1,0 +1,10 @@
+C:\Users\P114\source\repos\clickme\bin\Debug\clickme.exe.config
+C:\Users\P114\source\repos\clickme\bin\Debug\clickme.exe
+C:\Users\P114\source\repos\clickme\bin\Debug\clickme.pdb
+C:\Users\P114\source\repos\clickme\obj\Debug\clickme.csprojAssemblyReference.cache
+C:\Users\P114\source\repos\clickme\obj\Debug\clickme.Form1.resources
+C:\Users\P114\source\repos\clickme\obj\Debug\clickme.Properties.Resources.resources
+C:\Users\P114\source\repos\clickme\obj\Debug\clickme.csproj.GenerateResource.cache
+C:\Users\P114\source\repos\clickme\obj\Debug\clickme.csproj.CoreCompileInputs.cache
+C:\Users\P114\source\repos\clickme\obj\Debug\clickme.exe
+C:\Users\P114\source\repos\clickme\obj\Debug\clickme.pdb
